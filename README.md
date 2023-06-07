@@ -43,7 +43,7 @@ Model training consists of two steps: (1) self-supervised encoder pretraining an
 ### Self-supervised pretraining
 
 
-#### ImageNet/
+#### ImageNet
 The configs `imagenet_params_epochs*_bs*.yaml` contain the parameters to reproduce results for ImageNet dataset. The pretraining command is:
 
 ```(bash)
