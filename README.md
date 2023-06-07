@@ -28,16 +28,13 @@ export EXMAN_PATH=... # A path to logs
 ```
 
 
-## Import CLIP Models
-
-Install the official CLIP respository.
+Install the official CLIP respository and download the official [CLIP]"https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt" models
 
 ```
 pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 ```
 
-And we download the official [CLIP]("https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt") models.
 
 
 ## Training
