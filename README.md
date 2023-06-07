@@ -28,7 +28,7 @@ export EXMAN_PATH=... # A path to logs
 ```
 
 
-Install the official CLIP respository and download the official [CLIP](https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt) models
+Install the official CLIP respository and download the official [CLIP models](https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702a82c18be219cc2a73407c4526f58eba950af/ViT-B-32.pt).
 
 ```
 pip install ftfy regex tqdm
