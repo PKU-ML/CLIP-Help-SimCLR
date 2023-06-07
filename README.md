@@ -1,4 +1,4 @@
-# CLIP-Help-SimCLR
+# SimCLR with CLIP-guided Resampling
 
 This repository includes a PyTorch implementation of the ICML 2023 paper  [On the Generalization of Multi-modal Contrastive Learning]() authored by Qi Zhang*, [Yifei Wang*](https://yifeiwang.me), [Yisen Wang](https://yisenwang.github.io/). 
 
