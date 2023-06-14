@@ -66,7 +66,7 @@ python train.py --config configs/cifar_eval.yaml --encoder_ckpt <path-to-encoder
 If you find our code useful, please cite
 ```
 @inproceedings{
-zhang2023on,
+zhang2023generalization,
 title={On the Generalization of Multi-modal Contrastive Learning},
 author={Qi Zhang and Yifei Wang and Yisen Wang},
 booktitle={International Conference on Machine Learning},
